@@ -286,7 +286,7 @@ display: none;
 
 
 
-@media (min-width: 0px) and (max-width: 576px) { 
+@media (max-width: 576px) { 
     #navigation .row{
 
         display: grid;
@@ -298,7 +298,7 @@ display: none;
             display: none;
         }
         #navigation .menu .humberger{
-            width: 300px;
+            
             display: block;
             color: white;
            font-size: 25px;
